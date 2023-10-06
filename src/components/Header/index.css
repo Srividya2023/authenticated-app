@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.headers-list{
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    margin-right: 20px;
+}
